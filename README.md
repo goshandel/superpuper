@@ -1,1 +1,1 @@
-# superpuper
+# rps-bot
